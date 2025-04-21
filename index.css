@@ -1,0 +1,61 @@
+html {
+  background-image: url(https://media.istockphoto.com/id/1147156390/photo/real-photo-of-a-rattan-garden-furniture-set-with-lamps-and-table-in-the-background.jpg?s=612x612&w=0&k=20&c=FlNSP_HjvtQay0PCJlvKL7jnPFSD4O5Vp7AsGZDhhwk=);
+  background-color: white;
+}
+.Toptext {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: rgb(56, 21, 4);
+  background-color: rgb(247, 231, 211, 0.7);
+  border: 0px;
+  padding: 20px;
+  margin: 10px 100px;
+}
+.Subtext {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: rgb(56, 21, 4);
+  background-color: rgb(253, 238, 218, 0.7);
+  border: 0px;
+  padding: 20px;
+  margin: 10px 100px;
+}
+.BG2 {
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  margin: 10px 100px;
+}
+.Box {
+  background-color: rgb(253, 248, 240);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  border-width: 25px;
+  border-style: groove;
+  border-color: rgb(174, 124, 58);
+  border-radius: 10px;
+  padding: 15px;
+  color: rgb(56, 21, 4);
+}
+.NewPrice {
+  font-size: 40px;
+  color: green;
+}
+.B {
+  background-color: rgb(34, 134, 34, 0.8);
+  padding: 10px 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  border-radius: 20px;
+}
+.BS {
+  text-align: center;
+}
